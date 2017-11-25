@@ -27,7 +27,6 @@ green = 0,255,0
 
 """
                                     NOW STRATING MY SHIT-CODE
-
 """
 
 class SoudsWhores:
